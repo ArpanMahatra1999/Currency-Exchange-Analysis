@@ -1,4 +1,4 @@
-# Google-Colab-Currency-Exchange-Analysis
+# Currency-Exchange-Analysis
 Project on Colab for analysing currency exchange.
 
 Tools used:
